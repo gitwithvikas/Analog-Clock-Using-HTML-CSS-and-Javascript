@@ -1,0 +1,26 @@
+
+                     Logic For  Analog Clock
+
+In Hours  -
+            12hour = 360^      and multiplie  minutes   60min = 30^
+            1 hour = 30^                                1 min = 1/2^   =  m =m/2 rotation
+              
+
+                    for hours =  30min + m/2
+
+
+In Minutes  -   
+                60min = 360^
+                1min =  6^
+
+
+                   for minutes - m minutes = 6m
+
+
+In  Seconds  - 
+                60second = 360^
+                1second = 6^      
+
+
+                for seconds -   s second = 6s          
+           
